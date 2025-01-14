@@ -21,10 +21,10 @@ I'm currently a 5th-semester Computer Science student at **Indonesia University 
 
 ---
 
-### 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaffiArdhiN&theme=tokyonight&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaffiArdhiN&layout=compact&theme=tokyonight)
+### 📊 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaffiArdhiN&theme=tokyonight&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaffiArdhiN&layout=compact&theme=tokyonight)
+
 <!--
 ---
 
